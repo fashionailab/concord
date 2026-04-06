@@ -1,0 +1,1 @@
+/* firebase.ts content goes here */
